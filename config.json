@@ -1,0 +1,24 @@
+{
+  "databases": [
+    {
+      "origin_host": "localhost",
+      "origin_user": "SA",
+      "origin_password": "StrongPassword123",
+      "origin_database": "MyDatabase",
+      "destination_host": "localhost",
+      "destination_user": "SA",
+      "destination_password": "StrongPassword123",
+      "destination_database": "teste3"
+    },
+    {
+      "origin_host": "localhost",
+      "origin_user": "SA",
+      "origin_password": "StrongPassword123",
+      "origin_database": "teste2",
+      "destination_host": "localhost",
+      "destination_user": "SA",
+      "destination_password": "StrongPassword123",
+      "destination_database": "teste4"
+    }
+  ]
+}
